@@ -79,3 +79,5 @@ extensions/cronet/libs/*
 
 # MIDI extension
 extensions/midi/lib
+/demos/main/noDecoderExtensions/release/demo-noDecoderExtensions-release.apk
+/demos/main/noDecoderExtensions/release/output-metadata.json
