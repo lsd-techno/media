@@ -17,9 +17,9 @@ buildscript {
         mavenCentral()
     }
     dependencies {
-        classpath 'com.android.tools.build:gradle:7.2.1'
+        classpath 'com.android.tools.build:gradle:7.4.2'
         classpath 'com.google.android.gms:strict-version-matcher-plugin:1.2.2'
-        classpath 'org.jetbrains.kotlin:kotlin-gradle-plugin:1.5.21'
+        classpath 'org.jetbrains.kotlin:kotlin-gradle-plugin:1.6.21'
     }
 }
 allprojects {
