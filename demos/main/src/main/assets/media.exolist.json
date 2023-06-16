@@ -223,27 +223,27 @@
     "samples": [
       {
         "name": "1 (MP4) local",
-        "uri": "android.resource://com.google.android.exoplayer2.demo/raw/v1"
+        "uri": "android.resource://androidx.media3.demo.main/raw/v1"
       },
       {
         "name": "2 (MP4) local",
-        "uri": "android.resource://com.google.android.exoplayer2.demo/raw/v2"
+        "uri": "android.resource://androidx.media3.demo.main/raw/v2"
       },
       {
         "name": "3 (MP4) local",
-        "uri": "android.resource://com.google.android.exoplayer2.demo/raw/v3"
+        "uri": "android.resource://androidx.media3.demo.main/raw/v3"
       },
       {
         "name": "4 (MP4) local",
-        "uri": "android.resource://com.google.android.exoplayer2.demo/raw/v4"
+        "uri": "android.resource://androidx.media3.demo.main/raw/v4"
       },
       {
         "name": "5 (MP4, H264) local",
-        "uri": "android.resource://com.google.android.exoplayer2.demo/raw/v5"
+        "uri": "android.resource://androidx.media3.demo.main/raw/v5"
       },
       {
         "name": "6 (MP4, H265) local",
-        "uri": "android.resource://com.google.android.exoplayer2.demo/raw/v6"
+        "uri": "android.resource://androidx.media3.demo.main/raw/v6"
       },
       {
         "name": "1 (MP4)",
