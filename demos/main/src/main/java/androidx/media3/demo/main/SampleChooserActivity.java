@@ -78,7 +78,7 @@ public class SampleChooserActivity extends AppCompatActivity
     implements DownloadTracker.Listener, OnChildClickListener {
 
   // reference to video resources to include it in final assembly
-  private static int[] videoResources = {R.raw.v1, R.raw.v2, R.raw.v3, R.raw.v4, R.raw.v5, R.raw.v6};
+  private static int[] videoResources = {R.raw.v1, R.raw.v2, R.raw.v3, R.raw.v4, R.raw.v5, R.raw.v6, R.raw.v7_converted, R.raw.v8};
   private static int myvsize= videoResources.length;
 
   private static final String TAG = "SampleChooserActivity";

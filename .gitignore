@@ -81,3 +81,5 @@ extensions/cronet/libs/*
 extensions/midi/lib
 /demos/main/noDecoderExtensions/release/demo-noDecoderExtensions-release.apk
 /demos/main/noDecoderExtensions/release/output-metadata.json
+/demos/main/withDecoderExtensions/release/output-metadata.json
+/demos/main/withDecoderExtensions/release/demo-withDecoderExtensions-release.apk

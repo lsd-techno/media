@@ -222,6 +222,14 @@
     "name": "Magnit",
     "samples": [
       {
+        "name": "v8 (MP4) local",
+        "uri": "android.resource://androidx.media3.demo.main/raw/v8"
+      },
+      {
+        "name": "v7_converted (MP4) local",
+        "uri": "android.resource://androidx.media3.demo.main/raw/v7_converted"
+      },
+      {
         "name": "1 (MP4) local",
         "uri": "android.resource://androidx.media3.demo.main/raw/v1"
       },
